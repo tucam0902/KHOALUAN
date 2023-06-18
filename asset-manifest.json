@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tucam0902/KHOALUAN/static/css/main.9d038aa7.css",
-    "main.js": "/tucam0902/KHOALUAN/static/js/main.8dccaf53.js",
-    "static/js/787.60c4b4a1.chunk.js": "/tucam0902/KHOALUAN/static/js/787.60c4b4a1.chunk.js",
-    "index.html": "/tucam0902/KHOALUAN/index.html",
-    "main.9d038aa7.css.map": "/tucam0902/KHOALUAN/static/css/main.9d038aa7.css.map",
-    "main.8dccaf53.js.map": "/tucam0902/KHOALUAN/static/js/main.8dccaf53.js.map",
-    "787.60c4b4a1.chunk.js.map": "/tucam0902/KHOALUAN/static/js/787.60c4b4a1.chunk.js.map"
+    "main.css": "/tucam0902/KHOALUAN/tree/master/frontend-ct/static/css/main.9d038aa7.css",
+    "main.js": "/tucam0902/KHOALUAN/tree/master/frontend-ct/static/js/main.502993d8.js",
+    "static/js/787.60c4b4a1.chunk.js": "/tucam0902/KHOALUAN/tree/master/frontend-ct/static/js/787.60c4b4a1.chunk.js",
+    "index.html": "/tucam0902/KHOALUAN/tree/master/frontend-ct/index.html",
+    "main.9d038aa7.css.map": "/tucam0902/KHOALUAN/tree/master/frontend-ct/static/css/main.9d038aa7.css.map",
+    "main.502993d8.js.map": "/tucam0902/KHOALUAN/tree/master/frontend-ct/static/js/main.502993d8.js.map",
+    "787.60c4b4a1.chunk.js.map": "/tucam0902/KHOALUAN/tree/master/frontend-ct/static/js/787.60c4b4a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d038aa7.css",
-    "static/js/main.8dccaf53.js"
+    "static/js/main.502993d8.js"
   ]
 }
